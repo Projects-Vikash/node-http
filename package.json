@@ -1,0 +1,15 @@
+{
+  "name": "http-ex",
+  "version": "1.0.0",
+  "description": "examples for http modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node index"
+  },
+  "author": "Vikash Chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
